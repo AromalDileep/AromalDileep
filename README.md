@@ -3,9 +3,17 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AromalDileep&show_icons=true&theme=dracula" height="150" alt="stats graph" />
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <!-- GitHub Stats -->
+  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&theme=dracula" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&theme=dracula" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  </a>
+
 </div>
 
 ---
@@ -81,4 +89,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-dark.svg" alt="Snake animation" />
 </div>
-
