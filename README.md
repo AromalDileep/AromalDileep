@@ -89,5 +89,5 @@
 ### 🐍 3D Snake Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-blue.svg" alt="Blue Snake animation" />
 </div>
