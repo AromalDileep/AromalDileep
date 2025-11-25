@@ -1,7 +1,6 @@
 name: Generate 3D Snake Animation 🐍
 
 on:
-  # Runs at 12 AM and 12 PM daily
   schedule:
     - cron: "0 0 * * *"
     - cron: "0 12 * * *"
@@ -27,11 +26,9 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
-
-            # 🔵 Blue Neon Theme (matches your avatar aesthetics)
             dist/snake-blue.svg?color_snake=#00B4FF&color_dots=#0A1A2F,#12263B,#1E3A5F,#2A4F7A,#3A75A6
 
-      - name: 🚀 Deploy Snake Animation to output branch
+      - name: 🚀 Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
@@ -39,7 +36,7 @@ jobs:
           clean: true
           single-commit: true
 
-      - name: 🧹 Cleanup GitHub Actions Cache
+      - name: 🧹 Cleanup Cache
         uses: actions/cache@v4
         with:
           path: |
