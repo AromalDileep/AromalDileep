@@ -20,7 +20,8 @@ fun_fact: Turning coffee into code since forever ☕
 
 </div>
 
----
+
+
 
 <div>
 
@@ -48,7 +49,8 @@ me.say_hi()
 
 </div>
 
----
+
+
 
 <div>
 
@@ -73,9 +75,19 @@ me.say_hi()
 
 </div>
 
----
+
 
 <div align="center">
+  
+  Contribution Graph
+<img width="100%" src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-blue.svg" alt="Blue Snake animation" /> 
+
+</div>
+
+
+
+
+<!-- <div align="center">
 
 ### 🧪 Tech Stack
 
@@ -150,9 +162,11 @@ me.say_hi()
 </tr>
 </table>
 
-</div>
+</div> -->
 
----
+
+
+
 
 <div align="center">
 
