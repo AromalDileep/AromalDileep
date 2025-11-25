@@ -49,9 +49,8 @@ fun_fact: Turning coffee into code since forever ☕
 
 </div>
 
----
 
-# ⭐ Tech Stack 
+# Tech Stack 
 
 ```yaml
 languages: Python, C, Java, SQL, Bash 
@@ -68,7 +67,7 @@ automation: Playwright, BeautifulSoup, Scrapy, Autogui
 version_control: Git, GitHub, GitLab 
 ```
 
----
+
 
 <div>
 
@@ -83,13 +82,13 @@ version_control: Git, GitHub, GitLab
 
 <br>
 
-### 💭 Dev Quote of the Day
+### Dev Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight\&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.\&author=Cory%20House)
 
 </div>
 
----
+
 
 <div align="center">
 
