@@ -1,19 +1,25 @@
-name: Generate Snake Animation
+name: Generate 3D Snake Animation 🐍
 
 on:
+  # Runs at 12 AM and 12 PM daily
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: 🧩 Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate Snake (3D Animation)
+      - name: 🐍 Generate Snake SVG (3D, Multiple Themes)
         uses: Platane/snk@v3
         with:
           github_user_name: AromalDileep
@@ -21,9 +27,20 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
+            dist/snake-green.svg?color_snake=65D432&color_dots=#EBEDF0,#C6E48B,#7BC96F,#239A3B,#196127
 
-      - name: Upload animation to GitHub Pages
+      - name: 🚀 Deploy Snake Animation to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
+          clean: true
+          single-commit: true
+
+      - name: 🧹 Cleanup GitHub Actions Cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.npm
+            ~/.cache
+          key: snake-${{ runner.os }}-${{ github.run_id }}
