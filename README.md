@@ -51,6 +51,15 @@ me.say_hi()
 
 
 
+<div>
+  
+**Contribution Graph**
+<img width="100%" src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-green.svg" />
+
+</div>
+
+
+
 
 <div>
 
@@ -75,14 +84,6 @@ me.say_hi()
 
 </div>
 
-
-
-<div>
-  
-**Contribution Graph**
-<img width="100%" src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-green.svg" />
-
-</div>
 
 
 
