@@ -80,7 +80,7 @@ me.say_hi()
 <div>
   
 **Contribution Graph**
-<img width="100%" src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-blue.svg" alt="Green Snake animation" /> 
+<img width="100%" src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-green.svg" />
 
 </div>
 
