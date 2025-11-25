@@ -4,14 +4,14 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&theme=dracula" target="_blank">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <!-- GitHub Stats - Blue Theme -->
+  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&title_color=00B4FF&text_color=E0FFFF&icon_color=1E90FF&bg_color=0A1A2F&border_color=0A1A2F" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&title_color=00B4FF&text_color=E0FFFF&icon_color=1E90FF&bg_color=0A1A2F&border_color=0A1A2F" height="150" alt="stats graph" />
   </a>
 
-  <!-- Top Languages -->
-  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&theme=dracula" target="_blank">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <!-- Top Languages - Blue Theme -->
+  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&title_color=00B4FF&text_color=E0FFFF&icon_color=1E90FF&bg_color=0A1A2F&border_color=0A1A2F" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&title_color=00B4FF&text_color=E0FFFF&icon_color=1E90FF&bg_color=0A1A2F&border_color=0A1A2F" height="150" alt="languages graph" />
   </a>
 
 </div>
@@ -20,6 +20,7 @@
 
 <!-- Anime avatar on the right -->
 <img align="right" height="150" src="assets/anime3.jpg" />
+
 
 ### 🛠️ Skills & Technologies
 
