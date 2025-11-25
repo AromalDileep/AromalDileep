@@ -51,7 +51,7 @@ fun_fact: Turning coffee into code since forever ☕
 
 ---
 
-# ⭐ Tech Stack (Upgraded & Aesthetic)
+# ⭐ Tech Stack 
 
 ```yaml
 languages: Python, C, Java, SQL, Bash 
