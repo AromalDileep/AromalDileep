@@ -1,20 +1,18 @@
 <h2 align="left">Hi 👋! My name is Aromal Dileep and I'm a Machine Learning Developer from India.</h2>
 
 ---
-
 <div align="center">
 
-  <!-- GitHub Stats - Blue Theme -->
-  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&title_color=00B4FF&text_color=E0FFFF&icon_color=1E90FF&bg_color=0A1A2F&border_color=0A1A2F" target="_blank">
+  <a href="https://github.com/AromalDileep" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&title_color=00B4FF&text_color=E0FFFF&icon_color=1E90FF&bg_color=0A1A2F&border_color=0A1A2F" height="150" alt="stats graph" />
   </a>
 
-  <!-- Top Languages - Blue Theme -->
-  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&title_color=00B4FF&text_color=E0FFFF&icon_color=1E90FF&bg_color=0A1A2F&border_color=0A1A2F" target="_blank">
+  <a href="https://github.com/AromalDileep" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&title_color=00B4FF&text_color=E0FFFF&icon_color=1E90FF&bg_color=0A1A2F&border_color=0A1A2F" height="150" alt="languages graph" />
   </a>
 
 </div>
+
 
 ---
 
@@ -58,31 +56,32 @@
 
 <div align="left">
 
-  <a href="https://www.linkedin.com/in/aromal-dileep-150458318/" target="_blank">
+  <a href="https://www.linkedin.com/in/aromal-dileep-150458318/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="https://www.instagram.com/aromaldileep/" target="_blank">
+  <a href="https://www.instagram.com/aromaldileep/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="mailto:aromaldileep47@gmail.com" target="_blank">
+  <a href="mailto:aromaldileep47@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="https://leetcode.com/u/AromalDileep/" target="_blank">
+  <a href="https://leetcode.com/u/AromalDileep/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="https://www.kaggle.com/aromaldileep" target="_blank">
+  <a href="https://www.kaggle.com/aromaldileep" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="https://discord.com/users/aromal1996" target="_blank">
+  <a href="https://discord.com/users/aromal1996" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
 </div>
+
 
 ---
 
