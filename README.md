@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4FF,100:1E90FF&height=200&section=header&text=Aromal%20Dileep&fontSize=50&fontColor=E0FFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00C853&height=200&section=header&text=Aromal%20Dileep&fontSize=50&fontColor=E0FFE0&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" />
 
 </div>
 
@@ -60,18 +60,18 @@ me.say_hi()
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&count_private=true&hide_border=true&title_color=00B4FF&icon_color=00B4FF&text_color=E0FFFF&bg_color=0d1117&border_radius=10" />
+<img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&count_private=true&hide_border=true&title_color=00FF87&icon_color=00FF87&text_color=E0FFE0&bg_color=0d1117&border_radius=10" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&hide_border=true&title_color=00B4FF&text_color=E0FFFF&bg_color=0d1117&border_radius=10&langs_count=8" />
+<img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&hide_border=true&title_color=00FF87&text_color=E0FFE0&bg_color=0d1117&border_radius=10&langs_count=8" />
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AromalDileep&custom_title=Contribution%20Activity&bg_color=0d1117&color=00B4FF&line=1E90FF&point=E0FFFF&area_color=00B4FF&area=true&hide_border=true&radius=10" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AromalDileep&custom_title=Contribution%20Activity&bg_color=0d1117&color=00FF87&line=00C853&point=E0FFE0&area_color=00FF87&area=true&hide_border=true&radius=10" />
 
 </div>
 
@@ -80,7 +80,7 @@ me.say_hi()
 <div>
   
 **Contribution Graph**
-<img width="100%" src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-blue.svg" alt="Blue Snake animation" /> 
+<img width="100%" src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-blue.svg" alt="Green Snake animation" /> 
 
 </div>
 
@@ -133,7 +133,7 @@ version_control = ["Git", "GitHub", "GitLab"]
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4FF,100:1E90FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00C853&height=120&section=footer" width="100%"/>
 
 **✨ "Machine Learning is not just about algorithms, it's about creating intelligence that serves humanity" ✨**
 
