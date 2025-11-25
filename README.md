@@ -19,7 +19,7 @@
 ---
 
 <!-- Anime avatar on the right -->
-<img align="right" height="150" src="assets/anime.jpg" />
+<img align="right" height="150" src="assets/anime3.jpg" />
 
 ### 🛠️ Skills & Technologies
 
