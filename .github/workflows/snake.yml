@@ -34,7 +34,7 @@ jobs:
           branch: output
           folder: dist
           clean: true
-          single-commit: true
+          single-commit: false
 
       - name: 🧹 Cleanup Cache
         uses: actions/cache@v4
