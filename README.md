@@ -16,50 +16,15 @@ role: Machine Learning Developer
 interests: [Deep Learning, Computer Vision, NLP, AI Research]
 current_focus: Building intelligent systems that make a difference
 fun_fact: Turning coffee into code since forever ☕
-```
+````
 
 </div>
-
-
-
-
-<!-- <div>
-
-### What I'm About
-
-```python
-class AromalDileep:
-    def __init__(self):
-        self.role = "ML Developer"
-        self.location = "Kerala, India"
-        self.languages = ["Python", "C", "Java"]
-        self.frameworks = ["PyTorch", "TensorFlow", "Scikit-learn"]
-        self.passion = "Solving real-world problems with AI"
-        self.currently = "Building intelligent systems that matter"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together")
-    
-    def get_interests(self):
-        return ["Deep Learning", "Computer Vision", "NLP", "AI Research"]
-
-me = AromalDileep()
-me.say_hi()
-```
-
-</div> -->
-
-
 
 <div>
-  
-**Contribution Graph**
-<img width="100%" src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-green.svg" />
+
+**Contribution Graph** <img width="100%" src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-green.svg" />
 
 </div>
-
-
-
 
 <div>
 
@@ -84,49 +49,43 @@ me.say_hi()
 
 </div>
 
+---
 
+# ⭐ Tech Stack (Upgraded & Aesthetic)
 
-
-
-<div>
-
-###  Tech Stack
-
-```python
-languages = ["Python", "C", "Java", "SQL", "Bash"]
-ml_frameworks = ["PyTorch", "TensorFlow", "Scikit-learn", "Keras", "OpenCV"]
-deep_learning = ["Transformers", "BERT", "GPT", "ResNet", "GANs"]
-data_science = ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Plotly", "Apache Spark"]
-nlp_tools = ["spaCy", "NLTK", "Hugging Face", "LangChain"]
-backend = ["FastAPI", "Flask", "Django", "REST APIs"]
-databases = ["PostgreSQL", "MySQL"]
-cloud_platforms = ["AWS", "Google Cloud"]
-devops_tools = ["Docker", "CI/CD", "Git", "GitHub Actions"]
-development = ["VS Code", "Jupyter", "Linux", "Vim"]
-automation = ["Playwright", "BeautifulSoup", "Scrapy", "Scrcpy", "Autogui"]
-version_control = ["Git", "GitHub", "GitLab"]
+```yaml
+languages: Python, C, Java, SQL, Bash 
+ml_frameworks: PyTorch, TensorFlow, Scikit-learn, Keras, OpenCV 
+deep_learning: Transformers, BERT, GPT, ResNet, GANs 
+data_science: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Apache Spark 
+nlp_tools: spaCy, NLTK, HuggingFace, LangChain 
+backend: FastAPI, Flask, Django, REST APIs 
+databases: PostgreSQL, MySQL 
+cloud_platforms: AWS, Google Cloud 
+devops_tools: Docker, CI/CD, Git, GitHub Actions 
+development: VS Code, Jupyter, Linux, Vim 
+automation: Playwright, BeautifulSoup, Scrapy, Autogui 
+version_control: Git, GitHub, GitLab 
 ```
 
-</div>
-
-
-
+---
 
 <div>
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aromal-dileep-150458318/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aromaldileep/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aromaldileep47@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AromalDileep/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aromaldileep)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/aromal1996)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aromal-dileep-150458318/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/aromaldileep/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aromaldileep47@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/AromalDileep/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/aromaldileep)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/aromal1996)
 
 <br>
 
 ### 💭 Dev Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight\&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.\&author=Cory%20House)
 
 </div>
 
@@ -139,3 +98,4 @@ version_control = ["Git", "GitHub", "GitLab"]
 **✨ "Machine Learning is not just about algorithms, it's about creating intelligence that serves humanity" ✨**
 
 </div>
+
