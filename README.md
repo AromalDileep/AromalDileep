@@ -50,11 +50,9 @@ me.say_hi()
 
 ---
 
-<div ">
+<div>
 
 ### GitHub Analytics
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AromalDileep&theme=tokyonight" />
 
 <table border="0" cellpadding="0" cellspacing="0" align="center">
 <tr>
@@ -79,95 +77,75 @@ me.say_hi()
 
 <div align="center">
 
-### 🛠️ Tech Arsenal
+### 🧪 Tech Stack
 
 <table>
 <tr>
-<td valign="top" width="33%">
-
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
 </td>
-<td valign="top" width="33%">
-
-#### 🤖 ML/DL Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0d1117)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0d1117)
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
 </td>
-<td valign="top" width="33%">
-
-#### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117)
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Sklearn" />
+<br>Sklearn
 </td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-#### 🎯 Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0d1117)
-![Albumentations](https://img.shields.io/badge/Albumentations-6DB33F?style=for-the-badge&logoColor=white&labelColor=0d1117)
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+<br>OpenCV
 </td>
-<td valign="top" width="33%">
-
-#### 💬 NLP & LLMs
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white&labelColor=0d1117)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logoColor=white&labelColor=0d1117)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
-
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
+<br>Keras
 </td>
-<td valign="top" width="33%">
-
-#### ⚡ Big Data & Cloud
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=0d1117)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=0d1117)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black&labelColor=0d1117)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117)
-
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<br>NumPy
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br>Pandas
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
 </td>
 </tr>
 <tr>
-<td valign="top" width="33%">
-
-#### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
 </td>
-<td valign="top" width="33%">
-
-#### 🔧 Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117)
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br>Flask
 </td>
-<td valign="top" width="33%">
-
-#### 🌐 Web Technologies
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
 </td>
 </tr>
 </table>
