@@ -5,7 +5,7 @@
 
 </div>
 
-<div align="center">
+<div>
   
 ### 👨‍💻 About Me
   
@@ -22,45 +22,39 @@ fun_fact: Turning coffee into code since forever ☕
 
 ---
 
-<div align="center">
+<div>
 
 ### 🌊 What I'm About
-
-</div>
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
-<tr>
-<td width="60%" valign="top" style="border: none; padding: 0;">
 
 ```python
 class AromalDileep:
     def __init__(self):
         self.role = "ML Developer"
+        self.location = "Kerala, India"
         self.languages = ["Python", "C", "Java"]
         self.frameworks = ["PyTorch", "TensorFlow", "Scikit-learn"]
         self.passion = "Solving real-world problems with AI"
+        self.currently = "Building intelligent systems that matter"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together")
+    
+    def get_interests(self):
+        return ["Deep Learning", "Computer Vision", "NLP", "AI Research"]
 
 me = AromalDileep()
 me.say_hi()
 ```
 
-</td>
-<td width="40%" valign="middle" align="center" style="border: none; padding: 0;">
-
-<img height="200" src="assets/anime3.jpg" alt="Profile Avatar" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
 ### 📊 GitHub Analytics
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AromalDileep&theme=tokyonight" />
 
 <table border="0" cellpadding="0" cellspacing="0" align="center">
 <tr>
@@ -76,6 +70,8 @@ me.say_hi()
 </td>
 </tr>
 </table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AromalDileep&custom_title=Contribution%20Activity&bg_color=0d1117&color=00B4FF&line=1E90FF&point=E0FFFF&area_color=00B4FF&area=true&hide_border=true&radius=10" />
 
 </div>
 
