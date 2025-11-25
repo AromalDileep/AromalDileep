@@ -7,7 +7,7 @@
 
 <div>
   
-### 👨‍💻 About Me
+### About Me
   
 ```yaml
 name: Aromal Dileep
@@ -24,7 +24,7 @@ fun_fact: Turning coffee into code since forever ☕
 
 <div>
 
-### 🌊 What I'm About
+### What I'm About
 
 ```python
 class AromalDileep:
@@ -50,9 +50,9 @@ me.say_hi()
 
 ---
 
-<div align="center">
+<div ">
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AromalDileep&theme=tokyonight" />
 
