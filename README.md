@@ -18,7 +18,8 @@
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<!-- Anime avatar on the right -->
+<img align="right" height="150" src="assets/anime.jpg" />
 
 ### 🛠️ Skills & Technologies
 
