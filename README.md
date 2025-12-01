@@ -31,7 +31,10 @@ fun_fact: Turning coffee into code since forever ☕
 
 
 
-🏅 Kaggle Badges
+🏅 Kaggle Badges <a href="https://www.kaggle.com/aromaldileep">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="50">
+</a>
+
 
 <div align="center">
 
