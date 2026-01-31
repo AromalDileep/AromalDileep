@@ -67,28 +67,28 @@ fun_fact: Turning coffee into code since forever ☕
 
 
 
-<div>
+<!-- <div> -->
 
 ### GitHub Analytics
 
-<table border="0" cellpadding="0" cellspacing="0" align="center">
+<!-- <table border="0" cellpadding="0" cellspacing="0" align="center">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top"> -->
 
-<img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&count_private=true&hide_border=true&title_color=00FF87&icon_color=00FF87&text_color=E0FFE0&bg_color=0d1117&border_radius=10" />
+<!-- <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api?username=AromalDileep&show_icons=true&count_private=true&hide_border=true&title_color=00FF87&icon_color=00FF87&text_color=E0FFE0&bg_color=0d1117&border_radius=10" /> -->
 
-</td>
-<td width="50%" align="center" valign="top">
+<!-- </td> -->
+<!-- <td width="50%" align="center" valign="top"> -->
 
-<img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&hide_border=true&title_color=00FF87&text_color=E0FFE0&bg_color=0d1117&border_radius=10&langs_count=8" />
+<!-- <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AromalDileep&layout=compact&hide_border=true&title_color=00FF87&text_color=E0FFE0&bg_color=0d1117&border_radius=10&langs_count=8" /> -->
 
-</td>
-</tr>
-</table>
+<!-- </td> -->
+<!-- </tr> -->
+<!-- </table> -->
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AromalDileep&custom_title=Contribution%20Activity&bg_color=0d1117&color=00FF87&line=00C853&point=E0FFE0&area_color=00FF87&area=true&hide_border=true&radius=10" />
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AromalDileep&custom_title=Contribution%20Activity&bg_color=0d1117&color=00FF87&line=00C853&point=E0FFE0&area_color=00FF87&area=true&hide_border=true&radius=10" /> -->
 
-</div>
+<!-- </div> -->
 
 
 # Tech Stack 
@@ -122,20 +122,4 @@ version_control: Git, GitHub, GitLab
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/aromal1996)
 
 <br>
-
-### Dev Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight\&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.\&author=Cory%20House)
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00C853&height=120&section=footer" width="100%"/>
-
-**✨ "Machine Learning is not just about algorithms, it's about creating intelligence that serves humanity" ✨**
-
-</div>
 
