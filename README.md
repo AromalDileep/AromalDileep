@@ -20,12 +20,6 @@ fun_fact: Turning coffee into code since forever ☕
 
 </div>
 
-<div>
-
-**Contribution Graph** <img width="100%" src="https://github.com/AromalDileep/AromalDileep/blob/output/github-snake.svg" />
-
-
-</div>
 
 
 
