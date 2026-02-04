@@ -1,4 +1,4 @@
-g<div align="center">
+<div align="center">
 
 <!-- Animated Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00C853&height=200&section=header&text=Aromal%20Dileep&fontSize=50&fontColor=E0FFE0&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" />
