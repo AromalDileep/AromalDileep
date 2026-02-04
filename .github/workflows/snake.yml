@@ -18,7 +18,7 @@ jobs:
       - name: 🧩 Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🐍 Generate Snake SVG (Green Theme)
+      - name: 🐍 Generate Snake SVG (Purple Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: AromalDileep
@@ -27,8 +27,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
 
-            # 🌿 Green Neon Theme (matches your website color palette)
-            dist/snake-green.svg?color_snake=#00FF87&color_dots=#003B1F,#00552E,#007A45,#00C853,#00FF87
+            dist/snake-purple.svg?color_snake=#A855F7&color_dots=#2E1065,#4C1D95,#6D28D9,#8B5CF6,#A855F7
 
       - name: 🚀 Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
