@@ -22,7 +22,7 @@ fun_fact: Turning coffee into code since forever ☕
 
 <div>
 
-**Contribution Graph** <img width="100%" src="https://raw.githubusercontent.com/AromalDileep/AromalDileep/output/snake-purple.svg" />
+**Contribution Graph** <img width="100%" src="https://github.com/AromalDileep/AromalDileep/blob/output/snake-dark.svg" />
 
 
 </div>
