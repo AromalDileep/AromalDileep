@@ -1,4 +1,4 @@
-<div align="center">
+g<div align="center">
 
 <!-- Animated Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00C853&height=200&section=header&text=Aromal%20Dileep&fontSize=50&fontColor=E0FFE0&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" />
@@ -61,8 +61,27 @@ fun_fact: Turning coffee into code since forever ☕
   <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F6e139e7278fc9c33210e39baf918967f%2FBadge-53.svg?generation=1727468684057299&alt=media" width="60" />
 </a>
 
-</div>
+<a href="https://www.kaggle.com/aromaldileep">
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F45be693e46c3d59a48e65f903aad246b%2FBadge-5.svg?generation=1727462562515977&alt=media" width="60" />
+</a>
 
+<a href="https://www.kaggle.com/aromaldileep">
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2F8235ef48b7e37d36d6e081d112f303de%2FBadge-62.svg?generation=1758039755687969&alt=media" width="60" />
+</a>
+
+<a href="https://www.kaggle.com/aromaldileep">
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F67d3960ab66dd17a3b6b1546ca8c3acb%2FBadge-40.svg?generation=1727468269875327&alt=media" width="60" />
+</a>
+
+<a href="https://www.kaggle.com/aromaldileep">
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fe06d05ebef3630403946b71cbdc11665%2FBadge-42.svg?generation=1727468309615075&alt=media" width="60" />
+</a>
+
+<a href="https://www.kaggle.com/aromaldileep">
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbac00bdcf5aa52c077bef4d95da882f3%2FBadge-37.svg?generation=1727468352009252&alt=media" width="60" />
+</a>
+
+</div>
 
 
 
