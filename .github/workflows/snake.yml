@@ -18,16 +18,16 @@ jobs:
       - name: 🧩 Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🐍 Generate Snake SVG (Purple Theme)
+      - name: 🐍 Generate Snake SVG (Ocean Theme – matches second workflow)
         uses: Platane/snk@v3
         with:
           github_user_name: AromalDileep
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-light.svg?palette=github-light
-
-            dist/snake-purple.svg?color_snake=#A855F7&color_dots=#2E1065,#4C1D95,#6D28D9,#8B5CF6,#A855F7
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🚀 Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
