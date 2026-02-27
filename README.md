@@ -14,8 +14,6 @@ name: Aromal Dileep
 location: Kerala, India
 role: Machine Learning Developer
 interests: [Deep Learning, Computer Vision, NLP, AI Research]
-current_focus: Building intelligent systems that make a difference
-fun_fact: Turning coffee into code since forever ☕
 ````
 
 </div>
