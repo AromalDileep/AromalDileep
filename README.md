@@ -103,28 +103,11 @@ interests: [Deep Learning, Computer Vision, NLP, AI Research]
 <!-- </div> -->
 
 
-# Tech Stack 
-
-```yaml
-languages: Python, C, Java, SQL, Bash 
-ml_frameworks: PyTorch, TensorFlow, Scikit-learn, Keras, OpenCV 
-deep_learning: Transformers, BERT, GPT, ResNet, GANs 
-data_science: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Apache Spark 
-nlp_tools: spaCy, NLTK, HuggingFace, LangChain 
-backend: FastAPI, Flask, Django, REST APIs 
-databases: PostgreSQL, MySQL 
-cloud_platforms: AWS, Google Cloud 
-devops_tools: Docker, CI/CD, Git, GitHub Actions 
-development: VS Code, Jupyter, Linux, Vim 
-automation: Playwright, BeautifulSoup, Scrapy, Autogui 
-version_control: Git, GitHub, GitLab 
-```
-
 
 
 <div>
 
-### 🌐 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aromal-dileep-150458318/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/aromaldileep/)
